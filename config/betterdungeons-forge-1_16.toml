@@ -40,7 +40,7 @@
 		# The average number of chunks between adjacent Spider Dungeons.
 		# This controls how often Spider Dungeons spawn. Higher value = more rare.
 		# Default: 44
-		"Spider Dungeon Average Separation Distance" = 44
+		"Spider Dungeon Average Separation Distance" = 440
 		# List of dimensions that will have Spider Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
@@ -52,7 +52,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Spider Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Spider Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, oddwatermobs:deep_ocean_dunes]"
 		# Whether or not Cobbedstone from Quark should be used when generating Spider Caves, if Quark is installed.
 		# If Quark is not installed, this setting has no effect.
 		# Default: true
@@ -76,7 +76,7 @@
 		# The average number of chunks between adjacent Skeleton Dungeons.
 		# This controls how often Skeleton Dungeons spawn. Higher value = more rare.
 		# Default: 46
-		"Skeleton Dungeon Average Separation Distance" = 46
+		"Skeleton Dungeon Average Separation Distance" = 460
 		# List of dimensions that will have Skeleton Dungeons.
 		# List must be comma-separated values enclosed in square brackets.
 		# Entries must have the mod namespace included.
@@ -88,7 +88,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Skeleton Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, oddwatermobs:deep_ocean_dunes]"
 
 	###########################################################################################################
 	## Zombie Dungeon settings.
@@ -108,7 +108,7 @@
 		# The average number of chunks between adjacent Zombie Dungeons.
 		# This controls how often Zombie Dungeons spawn. Higher value = more rare.
 		# Default: 48
-		"Zombie Dungeon Average Separation Distance" = 48
+		"Zombie Dungeon Average Separation Distance" = 480
 		# The longest distance that can be checked when attempting to generate a surface entrance staircase.
 		# Making this too large may cause problems.
 		# Default: 20
@@ -124,7 +124,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Zombie Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, oddwatermobs:deep_ocean_dunes]"
 
 	###########################################################################################################
 	## Small Dungeon settings.
@@ -172,7 +172,7 @@
 		# Entries must have the mod namespace included.
 		# For example: "[minecraft:plains, byg:alps]"
 		# Default: "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
-		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean]"
+		"Small Dungeon Blacklisted Biomes" = "[minecraft:ocean, minecraft:frozen_ocean, minecraft:deep_ocean, minecraft:warm_ocean, minecraft:lukewarm_ocean, minecraft:cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:beach, minecraft:snowy_beach, minecraft:river, minecraft:frozen_river, minecraft:deep_warm_ocean, oddwatermobs:deep_ocean_dunes]"
 		# Whether or not Small Dungeons can rarely place ore blocks in the corners of the dungeon.
 		# If this is set to false, any ore blocks that spawn as part of a corner prop will instead be replaced with air.
 		# Default: true
