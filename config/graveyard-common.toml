@@ -101,15 +101,15 @@
 
 	["World Generation".haunted_forest]
 		#Weight of the biome. Set to 0 to disable generation.
-		weight = 3.0
+		weight = 0.5
 
 	["World Generation".haunted_lakes]
 		#Weight of the biome. Set to 0 to disable generation.
-		weight = 3.0
+		weight = 0.5
 
 	["World Generation".eroded_haunted_forest]
 		#Weight of the biome. Set to 0 to disable generation.
-		weight = 2.0
+		weight = 0.5
 
 ["Fog Generation in Graveyards"]
 	#Enable fog rising from moss in graveyards
