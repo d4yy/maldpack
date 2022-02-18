@@ -51,7 +51,7 @@
 	"Enable default decay rulesets check:" = true
 	#The probability that a surface structure will generate.
 	#Range: 0 ~ 100
-	"Probability of surface structure spawn:" = 25
+	"Probability of surface structure spawn:" = 100
 	# Allowed Dimensions for generation.
 	# Treasure2 was designed for 'normal' overworld-type dimensions.
 	# This setting does not use any wildcards (*). You must explicitly set the dimensions that are allowed.
