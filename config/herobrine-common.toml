@@ -9,25 +9,25 @@
 	BuilderBuilds = true
 	#The spawn weight of the Herobrine warrior. Higher values makes it more common, while 0 disables it.
 	#Range: 0 ~ 1024
-	HerobrineWarriorWeight = 10
+	HerobrineWarriorWeight = 5
 	#The spawn weight of the Herobrine spy. Higher values makes it more common, while 0 disables it.
 	#Range: 0 ~ 1024
-	HerobrineSpyWeight = 15
+	HerobrineSpyWeight = 10
 	#The spawn weight of the Herobrine builder. Higher values makes it more common, while 0 disables it.
 	#Range: 0 ~ 1024
-	HerobrineBuilderWeight = 10
+	HerobrineBuilderWeight = 5
 	#The spawn weight of the Herobrine mage. Higher values makes it more common, while 0 disables it.
 	#Range: 0 ~ 1024
-	HerobrineMageWeight = 10
+	HerobrineMageWeight = 2
 	#The spawn weight of the Herobrine stalker. Higher values makes it more common, while 0 disables it.
 	#Range: 0 ~ 1024
-	HerobrineStalkerWeight = 15
+	HerobrineStalkerWeight = 5
 	#The spawn weight of Infected mobs. Higher values makes them more common, while 0 disables them.
 	#Range: 0 ~ 1024
 	InfectedMobWeight = 0
 	#The distance in blocks the Herobrine spy observes the player from.
 	#Range: 0 ~ 64
-	HerobrineSpyObservationDistance = 32
+	HerobrineSpyObservationDistance = 64
 	#Controls if Herobrine can spawn in the end. 0 makes Herobrine unable to spawn in the end. 1 makes only non hostile Herobrine types spawn (Stalker and Spy), 2 makes the builder spawn, and 3 makes all Herobrine types spawn. Herobrine will never spawn on the center island no matter what this is set to.
 	#Range: 0 ~ 3
 	HerobrineEndSpawnType = 0
@@ -59,7 +59,7 @@
 
 [item_config]
 	#Determines if the Bedrock Sword can be obtained in Survival as an extremely rare drop from the Herobrine Warrior.
-	BedrockSwordDrops = false
+	BedrockSwordDrops = true
 
 [block_config]
 	#Determines if the Altar of Herobrine needs to be built on a shrine to be activated.
