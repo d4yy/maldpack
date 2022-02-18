@@ -34,7 +34,7 @@
       "weight": 10
     },
     "biomesoplenty:highland": {
-      "weight": 5
+      "weight": 0
     },
     "biomesoplenty:jade_cliffs": {
       "weight": 0
@@ -185,11 +185,11 @@
       "rarity": 1.0
     },
     "biomesoplenty:highland_crag": {
-      "weight": 100,
+      "weight": 0,
       "rarity": 1.25
     },
     "biomesoplenty:highland_moor": {
-      "weight": 100,
+      "weight": 0,
       "rarity": 0.75
     },
     "biomesoplenty:lavender_forest": {
@@ -318,7 +318,7 @@
       "weight": 3
     },
     "minecraft:mountains": {
-      "weight": 10
+      "weight": 0
     },
     "minecraft:nether_wastes": {
       "weight": 10
@@ -327,7 +327,7 @@
       "weight": 10
     },
     "minecraft:savanna": {
-      "weight": 10
+      "weight": 0
     },
     "minecraft:snowy_taiga": {
       "weight": 7
