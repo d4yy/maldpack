@@ -3,51 +3,51 @@
 	#+--------------------------------------------------------------------------------------------------+
 	#Archer Tower: Minimum spread dist
 	#Range: 1 ~ 256
-	archerTowerMinDist = 256
+	archerTowerMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Archer Tower: Maximum spread dist
 	#Range: 1 ~ 256
-	archerTowerMaxDist = 256
+	archerTowerMaxDist = 150
 	#+--------------------------------------------------------------------------------------------------+
 	#Centre: Minimum spread dist
 	#Range: 1 ~ 256
-	centreMinDist = 256
+	centreMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Centre: Maximum spread dist
 	#Range: 1 ~ 256
-	centreMaxDist = 256
+	centreMaxDist = 150
 	#+--------------------------------------------------------------------------------------------------+
 	#Fort: Minimum spread dist
 	#Range: 1 ~ 256
-	fortMinDist = 256
+	fortMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Fort: Maximum spread dist
 	#Range: 1 ~ 256
-	fortMaxDist = 256
+	fortMaxDist = 150
 	#+--------------------------------------------------------------------------------------------------+
 	#Mine: Minimum spread dist
 	#Range: 1 ~ 256
-	mineMinDist = 256
+	mineMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Mine: Maximum spread dist
 	#Range: 1 ~ 256
-	mineMaxDist = 256
+	mineMaxDist = 150
 	#+--------------------------------------------------------------------------------------------------+
 	#Tower: Minimum spread dist
 	#Range: 1 ~ 256
-	towerMinDist = 256
+	towerMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Tower: Maximum spread dist
 	#Range: 1 ~ 256
-	towerMaxDist = 256
+	towerMaxDist = 150
 	#+--------------------------------------------------------------------------------------------------+
 	#Castle: Minimum spread dist
 	#Range: 1 ~ 256
-	iceCastleMinDist = 256
+	iceCastleMinDist = 125
 	#+--------------------------------------------------------------------------------------------------+
 	#Castle: Maximum spread dist
 	#Range: 1 ~ 256
-	iceCastleMaxDist = 256
+	iceCastleMaxDist = 150
 
 ["Structure Biome Category Configuration"]
 	#+--------------------------------------------------------------------------------------------------+
