@@ -11,7 +11,7 @@
 			shouldSpawn = true
 			#The multiplier for weight of baby creepers spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
-			weightPercentage = 0.5
+			weightPercentage = 0.1
 			#The multiplier for minimum group size of baby creepers spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			minSizePercentage = 0.5
@@ -35,7 +35,7 @@
 			shouldSpawn = true
 			#The multiplier for weight of baby endermen spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
-			weightPercentage = 0.5
+			weightPercentage = 0.1
 			#The multiplier for minimum group size of baby endermen spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			minSizePercentage = 0.5
@@ -59,7 +59,7 @@
 			shouldSpawn = true
 			#The multiplier for weight of baby skeletons spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
-			weightPercentage = 0.5
+			weightPercentage = 0.1
 			#The multiplier for minimum group size of baby skeletons spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			minSizePercentage = 0.5
@@ -83,7 +83,7 @@
 			shouldSpawn = true
 			#The multiplier for weight of baby strays spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
-			weightPercentage = 0.5
+			weightPercentage = 0.1
 			#The multiplier for minimum group size of baby strays spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			minSizePercentage = 0.5
@@ -107,7 +107,7 @@
 			shouldSpawn = true
 			#The multiplier for weight of baby wither skeletons spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
-			weightPercentage = 0.5
+			weightPercentage = 0.1
 			#The multiplier for minimum group size of baby wither skeletons spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			minSizePercentage = 0.5
