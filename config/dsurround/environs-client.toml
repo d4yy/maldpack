@@ -75,7 +75,7 @@
 	"Spot Sound Volume" = 100
 	#Scaling factor to apply to waterfall sounds
 	#Range: 0 ~ 100
-	"Waterfall Volume" = 100
+	"Waterfall Volume" = 33
 	#Occlude WATERFALL sounds
 	"Occlude WATERFALL sounds" = false
 
